@@ -1,0 +1,1 @@
+# (código completo de app.py omitido aquí para brevedad, se incluirá en texto final)
